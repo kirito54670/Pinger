@@ -1,0 +1,12 @@
+{
+  "name": "ping-bot",
+  "version": "1.0.0",
+  "description": "Rastgele aralıklarla birden fazla API’ye ping atan sistem",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SeninAdın",
+  "license": "MIT"
+}
