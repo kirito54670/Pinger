@@ -1,12 +1,15 @@
 {
   "name": "ping-bot",
   "version": "1.0.0",
-  "description": "Rastgele aralıklarla birden fazla API’ye ping atan sistem",
+  "description": "Render ücretsiz plan uyku modu engelleme + ping script",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "SeninAdın",
-  "license": "MIT"
+  "author": "kirito",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
