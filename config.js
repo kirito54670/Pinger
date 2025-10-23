@@ -1,8 +1,8 @@
 // config.js
 export const PING_URLS = [
-  'https://api1.onrender.com/',
-  'https://api2.onrender.com/',
-  'https://api3.onrender.com/'
+  'https://deneme-3-g0l4.onrender.com/',
+  'https://haber-jphd.onrender.com/',
+  'https://hafiza-rlv4.onrender.com/'
 ];
 
 // Rastgele dakika aralığı (min ve max) -> 1 ile 5 dakika
