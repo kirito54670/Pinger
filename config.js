@@ -2,7 +2,7 @@
 export const PING_URLS = [
   'https://deneme-vc4s.onrender.com/',
   'https://haber-b7cb.onrender.com/',
-  'https://hafiza-rlv4.onrender.com/',
+  'https://haf-za.onrender.com/',
   'https://pinger-r4uu.onrender.com/',
   'https://yigitapidev.onrender.com/'
 ];
