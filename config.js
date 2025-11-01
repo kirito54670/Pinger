@@ -1,7 +1,7 @@
 // config.js
 export const PING_URLS = [
-  'https://deneme-3-g0l4.onrender.com/',
-  'https://haber-jphd.onrender.com/',
+  'https://deneme-vc4s.onrender.com/',
+  'https://haber-b7cb.onrender.com/',
   'https://hafiza-rlv4.onrender.com/',
   'https://pinger-r4uu.onrender.com/',
   'https://yigitapidev.onrender.com/'
