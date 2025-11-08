@@ -4,6 +4,7 @@ export const PING_URLS = [
   'https://haber-b7cb.onrender.com/',
   'https://haf-za.onrender.com/',
   'https://pinger-477f.onrender.com/',
+  'https://pinger-477f.onrender.com/',
   'https://yigitapidev.onrender.com/'
 ];
 
