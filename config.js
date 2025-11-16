@@ -8,8 +8,8 @@ export const PING_URLS = [
 ];
 
 // Rastgele dakika aralığı (min ve max) -> 1 ile 5 dakika
-export const MIN_MINUTES = 13;
-export const MAX_MINUTES = 14;
+export const MIN_MINUTES = 12;
+export const MAX_MINUTES = 13;
 
 // User-Agent (opsiyonel) -> Render/Glitch gibi servislerde bot gibi görünmeyi azaltır
 export const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
